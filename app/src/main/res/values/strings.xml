@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Flags</string>
+    <string name="austria">Австрия</string>
+    <string name="poland">Польша</string>
+    <string name="colombia">Колумбия</string>
+    <string name="italy">Италия</string>
+    <string name="madagaskar">Мадагаскар</string>
+    <string name="thailand">Таиланд</string>
 </resources>
